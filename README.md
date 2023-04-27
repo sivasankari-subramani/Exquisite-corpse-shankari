@@ -1,7 +1,5 @@
 # Exquisite-corpse-shankari
 
-## SUbheading
+## Hi Friends
 
-first markdown file
-
-**bold text**fdhgfdh
+This is shankari **bold text**
